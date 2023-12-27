@@ -1,8 +1,6 @@
-Hi, I'm Daniel Favour Oshidero, and I'm thrilled to welcome you to my GitHub profile.
+Hello, I'm Daniel Favour Oshidero. Welcome to my GitHub!
 
-I'm a versatile professional with a strong background in design. My journey began in the field of architecture, where I honed my skills in both creative and technical aspects of design through my Bachelors degree. I am currently pursuing my Masters degree in Computer Science.
-
-Currently, I'm on an exciting learning journey, delving into the world of programming with a current focus on C and Java. Additionally, I'm actively working on various projects using JavaScript, exploring the endless possibilities it offers.
+I'm a design enthusiast with a Bachelor's foundation in Architecture, now pursuing a Master's in Computer Science. My experience blends creative and technical skills, rooted in these studies. Presently, I'm currently developing my skills in programming, primarily focusing on C and Java, as well as actively engaging in projects utilizing JavaScript with various libraries to discover its vast potential.
 
 <!---
 dfoshidero/dfoshidero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
