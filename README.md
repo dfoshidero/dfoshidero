@@ -25,7 +25,7 @@
 **📝 Interesting Projects**
 <div align="center">
 <table> 
-<th align="left">Project Title</th>
+<th align="left">Project Titl</th>
 <th align="left">Last Project Update</th>
 <tr> <td><a href="https://www.youtube.com/watch?v=3kOdSKeSc2k&t=198s" target="_blank">Early-stage Carbon Predictor via Natural Language Inputs</a></td> <td>Tue, 10 Sept 2024</td> </tr> 
 <tr> <td><a href="https://www.youtube.com/watch?v=v2pALOEpWOQ" target="_blank">Bloom: Plant Learning Game (Concept)</a></td> <td>Sun, 18 Aug 2024</td> </tr> 
