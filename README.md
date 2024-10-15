@@ -16,7 +16,7 @@
 
 ---
 
-- 🔭 I’m a new grad Software Engineer working at [ETAS](https://knowbe4.com) (Bosch).
+- 🔭 I’m a new grad Software Engineer working at [ETAS](https://www.etas.com/en/) (Bosch).
 - 💬 Looking to collaborate in: **JavaScript (incl. Frameworks)** or **Python/C**.
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: When I'm not coding, I make paintings! [@untitled.fvr](https://www.instagram.com/untitled.fvr/) on Instagram.
@@ -41,9 +41,6 @@
 </div>
 
 -----
-[Early stage Carbon Observer // Dissertation Video - YouTube](https://www.youtube.com/watch?v=3kOdSKeSc2k&t=198s)
-
-[Project Bloom - Educational Mobile Game Demonstration - YouTube](https://www.youtube.com/watch?v=v2pALOEpWOQ)
 <div align="center">
   <!-- LinkedIn --> 
   <a href="https://www.linkedin.com/in/favourdo/" target="_blank">
