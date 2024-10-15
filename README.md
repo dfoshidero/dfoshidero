@@ -36,8 +36,8 @@
 -------
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dfoshidero&rank_icon=github" alt="Daniel's GitHub stats" height="220px" style="margin-right: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfoshidero&layout=donut" alt="Top Langs" height="220px" style="margin-left: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dfoshidero&rank_icon=github" alt="Daniel's GitHub stats" height="200px" style="margin-right: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfoshidero&layout=donut" alt="Top Langs" height="200px" style="margin-left: auto;">
 </div>
 
 -----
