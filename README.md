@@ -10,8 +10,9 @@
 
 **🎓 Qualifications**
 
-- 📖 **Currently pursuing**: Master of Science in Applied Data Science
-- 🎓 **Completed**: Master of Science in Computer Science with Distinction
+- 📖 **Currently pursuing**: MSc in Applied Data Science
+- - 📖 **Currently pursuing**: Level 7 Digital and Technology Solutions Specialist Certificate
+- 🎓 **Completed**: MSc in Computer Science with Distinction
 - 🎓 **Completed**: Honours Bachelor of Science with 2:1
 
 ---
