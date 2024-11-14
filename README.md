@@ -11,7 +11,7 @@
 **🎓 Qualifications**
 
 - 📖 **Currently pursuing**: MSc in Applied Data Science
-- - 📖 **Currently pursuing**: Level 7 Digital and Technology Solutions Specialist Certificate
+- 📖 **Currently pursuing**: Level 7 Digital and Technology Solutions Specialist
 - 🎓 **Completed**: MSc in Computer Science with Distinction
 - 🎓 **Completed**: Honours Bachelor of Science with 2:1
 
