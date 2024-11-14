@@ -10,9 +10,9 @@
 
 **🎓 Qualifications**
 
-- 📖 **Currently pursuing**: MSc in Applied Data Science
-- 🎓 **Completed**: MSc in Computer Science
-- 🎓 **Completed**: Honours Bachelor of Science
+- 📖 **Currently pursuing**: Master of Science in Applied Data Science
+- 🎓 **Completed**: Master of Science in Computer Science with Distinction
+- 🎓 **Completed**: Honours Bachelor of Science with 2:1
 
 ---
 
