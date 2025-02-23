@@ -18,7 +18,7 @@
 ---
 
 - 🔭 I’m a new grad Software Engineer working at [ETAS](https://www.etas.com/en/) (Bosch).
-- 💬 Looking to collaborate in: **JavaScript (incl. Frameworks)** or **Python/C**.
+- 💬 Looking to collaborate in: **JavaScript (incl. Frameworks)** or **Python** and **C**.
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: When I'm not coding, I make paintings! [@untitled.fvr](https://www.instagram.com/untitled.fvr/) on Instagram.
 
