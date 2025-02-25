@@ -21,18 +21,6 @@
 - 💬 Looking to collaborate in: **JavaScript (incl. Frameworks)** or **Python** and **C**.
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: When I'm not coding, I make paintings! [@untitled.fvr](https://www.instagram.com/untitled.fvr/) on Instagram.
-
--------
-**📝 Interesting Projects**
-<div align="center">
-<table> 
-<th align="left">Project Title</th>
-<tr> <td><a href="https://www.youtube.com/watch?v=3kOdSKeSc2k&t=198s" target="_blank">Early-stage Carbon Predictor via Natural Language Inputs</a></td>  </tr> 
-<tr> <td><a href="https://www.youtube.com/watch?v=v2pALOEpWOQ" target="_blank">Bloom: Plant Learning Game (Concept)</a></td>  </tr> 
-<tr> <td><a href="https://github.com/dfoshidero/CHIP-8-Emulator" target="_blank">CHIP-8 Operating System Emulator</a></td>  </tr>
-</table>
-</div>
-
 -------
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
