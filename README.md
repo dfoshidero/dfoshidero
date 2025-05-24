@@ -21,13 +21,6 @@
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: When I'm not coding, I make paintings! [@untitled.fvr](https://www.instagram.com/untitled.fvr/) on Instagram.
 -------
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dfoshidero&rank_icon=github" alt="Daniel's GitHub stats" height="210px" style="margin-right: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfoshidero&layout=donut" alt="Top Langs" height="210px" style="margin-left: auto;">
-</div>
-
------
 <div align="center">
   <!-- LinkedIn --> 
   <a href="https://www.linkedin.com/in/favourdo/" target="_blank">
