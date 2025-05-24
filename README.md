@@ -17,8 +17,8 @@
 
 ---
 
-- 🔭 I’m a new grad Software Engineer working at [ETAS](https://www.etas.com/en/) (Bosch).
-- 🌱 I’m currently learning Java.
+- 🔭 I’m a Software Engineer working at [ETAS](https://www.etas.com/en/) (Bosch).
+- 🌱 I’m currently learning Java and working on some Full Stack projects with Go & React-Native.
 - ⚡ Fun fact: When I'm not coding, I make paintings! [@untitled.fvr](https://www.instagram.com/untitled.fvr/) on Instagram.
 -------
 <div align="center">
