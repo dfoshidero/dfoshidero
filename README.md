@@ -17,8 +17,8 @@
 
 ---
 
-- 🔭 I’m a Software Engineer working at [ETAS](https://www.etas.com/en/) (Bosch).
-- 🌱 I’m currently learning Java and working on some Full Stack projects with Go & React-Native.
+- 🔭 I’m a Software Engineer working at [Intropic.io](https://intropic.io/) ().
+- 🌱 I’m currently learning Java and working on some Full-Stack Machine Learning projects. Check out www.talkingcarbon.com!
 - ⚡ Fun fact: When I'm not coding, I make paintings! [@untitled.fvr](https://www.instagram.com/untitled.fvr/) on Instagram.
 -------
 <div align="center">
