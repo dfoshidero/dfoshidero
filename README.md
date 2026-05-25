@@ -32,5 +32,5 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="25" height="25" style="vertical-align: middle;" />
   </a>
   <br><br>
-  <em>© 2024 Daniel Favour Olanrewaju Oshidero</em>
+  <em>© 2026 Daniel Favour Olanrewaju Oshidero</em>
 </div>
