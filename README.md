@@ -23,7 +23,7 @@
 - Honours Bachelor of Science with 2:1
 
 **Professional**
-- Level 7 Certificate, Digital and Technology Solutions
+- (Postgrad.) Level 7 Certificate, Digital and Technology Solutions
 - Level 3 Diploma, Networking and Cybersecurity
 
 ---
